@@ -23,8 +23,9 @@
 * **Năm học:** HK2 (2021 - 2022)
 * **Giảng viên**: ThS. Đỗ Văn Tiến
 
-## THỰC HÀNH
-
+## SEMINAR
+- Tìm hiểu thuật toán PCA và nén ảnh dữ liệu
+- [Thư mục Seminar]()
 
 ## ĐỒ ÁN CUỐI KÌ
 
