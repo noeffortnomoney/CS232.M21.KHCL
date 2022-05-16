@@ -25,7 +25,7 @@
 
 ## SEMINAR
 - Tìm hiểu thuật toán PCA và nén ảnh dữ liệu
-- [Thư mục Seminar]()
+- [Thư mục Seminar](https://github.com/noeffortnomoney/CS232.M21.KHCL/tree/main/Seminar)
 
 ## ĐỒ ÁN CUỐI KÌ
 
